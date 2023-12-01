@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60022033405",
+    "project_id": "fir-forjobportal",
+    "storage_bucket": "fir-forjobportal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60022033405:android:1e5c908933fe7e1e5d2794",
+        "android_client_info": {
+          "package_name": "com.example.jobportality"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8HCFGUxKXxnepDO3japG0MlXQ1JYx2Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
