@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "60022033405",
-    "project_id": "fir-forjobportal",
-    "storage_bucket": "fir-forjobportal.appspot.com"
+    "project_number": "18028834913",
+    "firebase_url": "https://portality2-4cb7d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "portality2-4cb7d",
+    "storage_bucket": "portality2-4cb7d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:60022033405:android:1e5c908933fe7e1e5d2794",
+        "mobilesdk_app_id": "1:18028834913:android:88089b057ef0208cd1ba20",
         "android_client_info": {
           "package_name": "com.example.jobportality"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD8HCFGUxKXxnepDO3japG0MlXQ1JYx2Rk"
+          "current_key": "AIzaSyCDCmaOEaxcPJv5jXREme9aqgpDe7eN7TA"
         }
       ],
       "services": {
