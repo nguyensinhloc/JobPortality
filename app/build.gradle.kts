@@ -54,7 +54,7 @@ dependencies {
     implementation("com.google.firebase:firebase-crashlytics:18.6.0")
     implementation("com.google.firebase:firebase-perf:20.5.1")
     implementation("com.google.firebase:firebase-messaging:23.3.1")
-    implementation("com.google.firebase:firebase-inappmessaging-display:20.4.0")
+    implementation("com.google.firebase:firebase-inappmessaging-display:21.0.1")
     implementation("com.google.firebase:firebase-config:21.6.0")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
